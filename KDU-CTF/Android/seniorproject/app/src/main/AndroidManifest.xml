@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.senior.senior_project">
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Seniorproject">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-8067120541813327~5285644714" />
+            <!--android:value="ca-app-pub-3940256099942544~6300978111" 광고 위에랑 변경테스트-->
+            <!--android:value="ca-app-pub-4771680612748082~2477830194"" 실제 계정 광고-->
+
+        <activity
+            android:name="com.senior.senior_project.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.senior.senior_project.Forensics" />
+        <activity android:name="com.senior.senior_project.Web" />
+        <activity android:name="com.senior.senior_project.Crypto" />
+    </application>
+
+</manifest>
