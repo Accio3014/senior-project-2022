@@ -1,0 +1,21 @@
+[Poor MEAGAN!]
+https://github.com/CTSecUK/DEADFACE_CTF_2021/blob/main/Write-ups/Cryptography/Poor%20MEGAN!%20(10%20Points).md
+
+[Canada Server]
+https://bsempir0x65.github.io/CTF_Writeups/KnightCTF_2022/#canada-server
+
+[Message]
+https://codingmace.gitbook.io/masterward/ctf/2018/defcamp-2018#multiple-flags
+
+[pdf]
+https://github.com/0e85dc6eaf/CTF-Writeups/tree/master/Google%20CTF%202018%20Quals%20Beginners%20Quest/Letter
+
+[salad]
+https://github.com/Accio3014/JerseyCTF2022/blob/main/writeup.md
+
+[Unbreakable encryption]
+https://ctftime.org/writeup/31696
+
+[So Forgetful!]
+https://github.com/LambdaMamba/CTFwriteups/tree/main/VishwaCTF_2022/Forensic/So_Forgetful
+
